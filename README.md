@@ -22,4 +22,8 @@ This project uses machine learning to predict health insurance premiums in the U
 # Run the FastAPI Server
         uvicorn api.app:app --reload
 # Access Swagger UI at:
+<<<<<<< HEAD
     http://127.0.0.1:8000/docs
+=======
+       http://127.0.0.1:8000/docs
+>>>>>>> eaede1d53ef5c7920251f4d51bc880f75965af9b

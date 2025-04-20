@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 
@@ -8,3 +9,29 @@ env/
 
 
 
+=======
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+
+# Environments
+.env
+.venv/
+env/
+inttrvu/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+>>>>>>> eaede1d53ef5c7920251f4d51bc880f75965af9b
